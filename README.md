@@ -33,3 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecrespo&show_icons=true&locale=en&layout=compact" alt="ecrespo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecrespo&show_icons=true&locale=en" alt="ecrespo" /></p>
+
+### notebooks
+1. EDAs:
+1.1 [Climate Change Temperature by Country, Global Temperature and CO2 ppm](./notebooks/Climate_change.ipynb)

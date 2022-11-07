@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "data-science-portfoliio"
+version = "0.1.0"
+description = ""
+authors = ["Ernesto Crespo <ernesto@asistensi.com>"]
+readme = "README.md"
+packages = [{include = "data_science_portfoliio"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ipykernel = "^6.17.0"
+pandas = "^1.5.1"
+numpy = "^1.23.4"
+matplotlib = "^3.6.2"
+seaborn = "^0.12.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
