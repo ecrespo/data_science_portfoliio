@@ -31,8 +31,10 @@
 
 ### Portfolio:
 #### Notebooks
-1. EDAs:
+##### 1. EDAs:
 
-1.1 [Climate Change Temperature by Country, Global Temperature and CO2 ppm](./notebooks/Climate_change.ipynb)
+* [Climate Change Temperature by Country, Global Temperature and CO2 ppm](./notebooks/Climate_change.ipynb)
 
-1.2 [Exploring Covid19 data with pandas.](./notebooks/covid19-6.ipynb)
+* [Exploring Covid19 data with pandas.](./notebooks/covid19-6.ipynb)
+
+* [Analysis of the 25 largest retailers in the United States](./notebooks/Retailers_US.ipynb)
