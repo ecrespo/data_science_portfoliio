@@ -30,11 +30,17 @@
 
 
 ### Portfolio:
+
 #### Notebooks
-##### 1. EDAs:
+
+##### EDAs:
 
 * [Climate Change Temperature by Country, Global Temperature and CO2 ppm](./notebooks/Climate_change.ipynb)
 
 * [Exploring Covid19 data with pandas.](./notebooks/covid19-6.ipynb)
 
 * [Analysis of the 25 largest retailers in the United States](./notebooks/Retailers_US.ipynb)
+
+#### Graphs
+
+* [Matplotlib](./notebooks/Matplotlib.ipynb)
