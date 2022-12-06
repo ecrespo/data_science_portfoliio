@@ -40,9 +40,7 @@
 * [Exploring Covid19 data with pandas.](./notebooks/covid19-6.ipynb)
 
 * [Analysis of the 25 largest retailers in the United States](./notebooks/Retailers_US.ipynb)
-
-* [Analysis Stanford Open Policy Project Dataset](./notebooks/police traffic.ipynb)
-
+* [Analysis Stanford Open Policy Project Dataset](./notebooks/police_traffic.ipynb)
 #### Graphs
 
 * [Matplotlib](./notebooks/Matplotlib.ipynb)
