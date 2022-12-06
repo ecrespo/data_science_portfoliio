@@ -41,6 +41,8 @@
 
 * [Analysis of the 25 largest retailers in the United States](./notebooks/Retailers_US.ipynb)
 
+* [Analysis Stanford Open Policy Project Dataset](./notebooks/police traffic.ipynb)
+
 #### Graphs
 
 * [Matplotlib](./notebooks/Matplotlib.ipynb)
