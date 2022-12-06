@@ -36,11 +36,10 @@
 ##### EDAs:
 
 * [Climate Change Temperature by Country, Global Temperature and CO2 ppm](./notebooks/Climate_change.ipynb)
-
 * [Exploring Covid19 data with pandas.](./notebooks/covid19-6.ipynb)
-
 * [Analysis of the 25 largest retailers in the United States](./notebooks/Retailers_US.ipynb)
 * [Analysis Stanford Open Policy Project Dataset](./notebooks/police_traffic.ipynb)
+* [Investigating Netflix Movies and Guest Stars in The Office](./notebooks/Netflix.ipynb)
 #### Graphs
 
 * [Matplotlib](./notebooks/Matplotlib.ipynb)
