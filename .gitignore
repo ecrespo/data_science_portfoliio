@@ -1,2 +1,6 @@
 poetry.lock
 notebooks/.ipynb_checkpoints/
+.jupyter/
+.ipynb_checkpoints/
+.idea/
+.venv/
