@@ -40,6 +40,12 @@
 * [Analysis of the 25 largest retailers in the United States](./notebooks/Retailers_US.ipynb)
 * [Analysis Stanford Open Policy Project Dataset](./notebooks/police_traffic.ipynb)
 * [Investigating Netflix Movies and Guest Stars in The Office](./notebooks/Netflix.ipynb)
+* [TV, halftime shows, and the Big Game](./notebooks/tv_superball.ipynb)
+
 #### Graphs
 
 * [Matplotlib](./notebooks/Matplotlib.ipynb)
+
+#### SQL
+
+* [The ten best-selling video games](./notebooks/best_sell_video_games.ipynb)
